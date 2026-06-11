@@ -132,9 +132,9 @@ Open `index.html` (or use VS Code Live Server on port 5500) to launch the fronte
 
 | Role | Email | Password |
 |---|---|---|
-| Admin | admin@dhms.com | admin123 |
-| Warden | warden@dhms.com | warden123 |
-| Guard | guard@dhms.com | guard123 |
+| Admin | admin1@dhms.com | admin123 |
+| Warden | warden1@dhms.com | warden123 |
+| Guard | guard1@dhms.com | guard123 |
 
 > ⚠️ Passwords are stored in plaintext for MVP demo purposes. **Do not deploy to production without bcrypt hashing.**
 
